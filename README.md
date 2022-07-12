@@ -7,7 +7,8 @@ A Nova field to place a marker on map to get coordinates then it reverse geocodi
 You can install the package in to a Laravel app that uses Nova via composer:
 
 ```bash
-composer require specialist/nova-map-address
+composer require specialist/nova-map-address "dev-master"
+```
 ```
 
 ## Configuration
