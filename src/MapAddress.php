@@ -1,6 +1,6 @@
 <?php
 
-namespace Josrom\MapAddress;
+namespace Specialist\MapAddress;
 
 use Laravel\Nova\Fields\Field;
 

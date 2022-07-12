@@ -1,5 +1,5 @@
 {
-    "name": "josrom/nova-map-address",
+    "name": "specialist/nova-map-address",
     "description": "A Laravel Nova field to place a marker on map to get coordinates then it reverse geocoding the coordinates to get a street address",
     "keywords": [
         "laravel",
@@ -16,13 +16,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Josrom\\MapAddress\\": "src/"
+            "Specialist\\MapAddress\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Josrom\\MapAddress\\FieldServiceProvider"
+                "Specialist\\MapAddress\\FieldServiceProvider"
             ]
         }
     },
